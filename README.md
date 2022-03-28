@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Soham
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandysoham&count_private=true&show_icons=true&theme=dark)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandysoham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nandysoham/nandysoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
